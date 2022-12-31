@@ -1,0 +1,160 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.dark-selection {
+  background-color: #282d32;
+  color: white;
+}
+
+#promo {
+  text-align: center;
+  padding: 20px;
+  background: url("../../assets/img/IMG-20200430-WA0005.jpg");
+}
+
+#p-tag {
+  width: 100%;
+  color: #706565;
+}
+
+#bottton {
+  background-color: #d53082;
+  border: none;
+}
+
+#bottton:hover {
+  background-color: var(--bs-blue);
+}
+
+.item p {
+  color: white;
+}
+
+.second-p {
+  color: #706565;
+  padding: 20px;
+}
+
+.round-3 {
+  padding: 20px;
+  border-radius: 50px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+#promo .round-3 {
+  padding: 20px !important;
+}
+
+#promo {
+  padding: 20px;
+}
+
+.site-selection {
+  text-align: center;
+  padding: 30px 0 60px;
+}
+
+.site-selection h1 {
+  font-weight: normal;
+  margin-bottom: 3px;
+  color: wheat;
+}
+
+#welcom p {
+  max-width: 800px;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.icon-i {
+  font-size: 42px;
+  color: #d53082;
+}
+
+#nav-back {
+  background-color: #e8e8e8;
+}
+
+#logo {
+  max-height: 42px;
+  margin-right: 10px;
+  margin-top: -2px;
+  display: inline-block;
+  border-radius: 100px;
+  border: 3px solid;
+  border-color: #d53082;
+}
+
+#why .item h2 {
+  font-weight: normal;
+  margin-top: 13px;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+#why .item {
+  margin-top: 30px;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show > .nav-link {
+  color: rgba(0,0,0,.9);
+  background-color: #d53082;
+  border-radius: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: black;
+}
+
+@media (min-width: 576px) {
+  #navlinko:hover {
+    text-align: center;
+  }
+}
+
+#navlinko {
+}
+
+#navlinko:hover {
+  color: black !important;
+  background-color: #d53082;
+  border-radius: 20px;
+}
+
+#cpn {
+  color: #d53082;
+}
+
+.footerac:hover {
+  color: #d53082;
+}
+
+#columnw {
+}
+
+.navbar-light .navbar-toggler {
+  color: rgb(213,48,130);
+  border-color: rgba(0,0,0,.1);
+}
+
+.bg-light {
+  --bs-bg-opacity: 1;
+  /*background-color: rgba(var(--bs-light-rgb),var(--bs-bg-opacity))!important;*/
+}
+
+.bg-light {
+  --bs-bg-opacity: 1;
+}
+
+.round-3 {
+}
+
+.round-3 {
+}
+
+.round-3 {
+  background-color: rgba(255,255,255,0.56) !important;
+}
+
